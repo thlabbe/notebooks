@@ -1,0 +1,229 @@
+VERMEG    ;V00       ;SODCI020  ;D:\MIGDATA\DEV\FICHIER\INTER\JFPEN991C.FPENDORS-COVERAGE.TXT ;000069274
+VERMEG  ;V00     ;SODCS005;Lectures XFEEA2FO FEE_AMT_TO_FEE_AMT_ORIGIN                 ;00000000000005291209
+VERMEG  ;V00     ;SODCI008;Ecritures FIFATFO                                           ;00000000000000001906
+VERMEG  ;V00     ;SODCF021;Clé XFEEA2FO absente de XFINOPER                            ;00000000000000000000
+VERMEG  ;V00     ;SODCF022;clé XFEEA2FO absente de FIFINOP2                            ;00000000000005289303
+VERMEG  ;V00     ;SODCI010;Ecritures FIFATFO PACTI200                                  ;00000000000000000068
+VERMEG  ;V00     ;SODCF030;Clé FIFATFO absente de XFEESTAC                             ;00000000000000001838
+VERMEG  ;V00     ;SODCF031;Clé FIFATFO absente de XFEEAMT                              ;00000000000000000000
+VERMEG  ;V00     ;SODCF029;FEE-TYPE-CODEID abs XGENFEET                                ;00000000000000000000
+VERMEG  ;V00     ;SODCC001;Nombre enregistrements cible FEESTORE                       ;00000000000000000068
+VERMEG  ;V00     ;SODCC002;Nombre enregistrements cible ACCNTACT                       ;00000000000000000009
+VERMEG  ;V00     ;SODCC003;Nombre enregistrements cible CHARGACT                       ;00000000000000000029
+VERMEG  ;V00     ;SODCC004;Nombre enregistrements cible PAYMTACT                       ;00000000000000000030
+VERMEG  ;V00     ;SODCF032;ABSENT XFSTORAA ( FEE_STORE_ACCOUNT_ACTION )                ;00000000000000000059
+VERMEG  ;V00     ;SODCF033;ABSENT-XFSTORCA ( FSTORE_CHARGE_ACTION )                    ;00000000000000000039
+VERMEG  ;V00     ;SODCF034;ABSENT-XFSTORPA ( FSTORE_PAY_ACTION )                       ;00000000000000000038
+VERMEG  ;V00     ;SODCA006;FEESTORE KO - impossible de creer                           ;00000000000000000000
+VERMEG  ;V00     ;SODCS001;Clé XBILL-OID absente de XBILLCMP                           ;00000000000000400397
+VERMEG  ;V00     ;SODCC005;Nombre enregistrements cible BILL                           ;00000000000000000014
+VERMEG  ;V00     ;SODCC006;Nombre enregistrements cible BILLCOMP                       ;00000000000000000000
+VERMEG  ;V00     ;SODCF058;BILL sans BILLCOMP                                          ;00000000000000000014
+VERMEG  ;V00     ;SODCF045;plusieurs FIBILL pour EP-OID                                ;00000000000000000000
+VERMEG  ;V00     ;SODCF001;Nombre avenants hors versements                             ;00000000000000035383
+VERMEG  ;V00     ;SODCR002;Clé FP-EP-OID absente de FIBILL                             ;00000000000000000000
+VERMEG  ;V00     ;SODCR013;FIBILL-XBILL-STATUS inconnu                                 ;00000000000000000000
+VERMEG  ;V00     ;SODCA001;clé absente de XBILLRST                                     ;00000000000000000000
+VERMEG  ;V00     ;SODCS006;Lectures XRISKCOV                                           ;00000000000000054687
+VERMEG  ;V00     ;SODCI009;Ecritures SPPOLCLA FPPOLICY-AVEC-CLAIM Enrichis             ;00000000000000000014
+VERMEG  ;V00     ;SODCF026;RISKCOV_OID absent de FPPOLICY                              ;00000000000000054673
+VERMEG  ;V00     ;SODCC007;Nombre enregistrements cible CLAIM                          ;00000000000000000013
+VERMEG  ;V00     ;SODCC008;Nombre enregistrements cible CLCOVDET                       ;00000000000000000014
+VERMEG  ;V00     ;SODCF087;plusieurs CLAIM-COV-DET pour CLAIM                          ;00000000000000000001
+VERMEG  ;V00     ;SODCC009;Nombre enregistrements cible CLAUSE                         ;00000000000000036463
+VERMEG  ;V00     ;SODCF016;Plusieurs VCLAUSE / avenant                                 ;00000000000000001066
+VERMEG  ;V00     ;SODCF094;Clé absente de VCLAUSE (PC-Light)                           ;00000000000000000000
+VERMEG  ;V00     ;SODCA010;Clé EPC-OID absente de VCLAUSE                              ;00000000000000000000
+VERMEG    ;V00       ;SODCF018  ;D:\MIGDATA\DEV\FICHIER\INTER\JCLBE175.FPENDORS-AVEC-EBS-CLAUSE-OID.TRI ;000001499
+VERMEG  ;V00     ;SODCI036;Avenant avec EBS-CLAUSE-OID                                 ;00000000000000001499
+VERMEG  ;V00     ;SODCI034;CLAUSE-BENEF(BE-LIEN)trouvé pour l'avenant                  ;00000000000000001405
+VERMEG  ;V00     ;SODCI032;Plusieurs VBENEF / VCLAUSE                                  ;00000000000000001786
+VERMEG  ;V00     ;SODCI033;Plusieurs VBENEF / avenant                                  ;00000000000000000009
+VERMEG  ;V00     ;SODCI035;Plusieurs BE-LIEN pour l'avenant                            ;00000000000000001007
+VERMEG  ;V00     ;SODCR008;Clé EPC-OID+EBS-BENEFICIARY-OID absente de VBENEF           ;00000000000000000626
+VERMEG  ;V00     ;SODCR009;Clé EBS-CLAUSE-OID absente de VCLAUSE                       ;00000000000000000094
+VERMEG  ;V00     ;SODCC010;Nombre enregistrements cible BENEF                          ;00000000000000001795
+VERMEG  ;V00     ;SODCR007;BENEF-THIRD-PARTY absent VROLE                              ;00000000000000000000
+VERMEG  ;V00     ;SODCC047; comptage par awk ;00000000000000464017
+VERMEG  ;V00     ;SODCC047; comptage par awk ;00000000000005156600
+VERMEG  ;V00     ;SODCI049;CUST-PAR pour FEE                                           ;00000000000002046697
+VERMEG  ;V00     ;SODCI041;CUST-PAR pour PARAMTRS                                      ;00000000000000014653
+VERMEG  ;V00     ;SODCI043;CUST-PAR pour QUESTION                                      ;00000000000000000040
+VERMEG  ;V00     ;SODCI042;CUST-PAR pour RISK-COV                                      ;00000000000000063690
+VERMEG  ;V00     ;SODCI047;CUST-PAR pour SERVICE                                       ;00000000000000034477
+VERMEG  ;V00     ;SODCI048;CUST-PAR pour SWITCHSI                                      ;00000000000000004176
+VERMEG  ;V00     ;SODCI044;CUST-PAR pour TAX-CALCR                                     ;00000000000000173312
+VERMEG  ;V00     ;SODCI045;CUST-PAR pour TAX-DTLS                                      ;00000000000002759388
+VERMEG  ;V00     ;SODCI046;CUST-PAR pour TAX-R-R                                       ;00000000000000060167
+VERMEG    ;V00       ;SODCF067  ;D:\MIGDATA\DEV\FICHIER\INTER\JDIST100.FPENDORS.AVEC-EIS-OID.TRI ;000033877
+VERMEG  ;V00     ;SODCC011;Nombre enregistrements cible DIST-KEY                       ;00000000000000094040
+VERMEG  ;V00     ;SODCF052;Plusieurs XEFINDIS pour l'avenant                           ;00000000000000058680
+VERMEG  ;V00     ;SODCF051;clé FPENDORS absente de XEFINDIS                            ;00000000000000000037
+VERMEG  ;V00     ;SODCS002;clé absente de XGUARRAT - Fond non garanti                  ;00000000000000071708
+VERMEG  ;V00     ;SODCR001;clé absente de XIDENTIF pr DIST-KEY                         ;00000000000000000000
+VERMEG  ;V00     ;SODCR003;clé absente de XSECURIT et XGUARRAT                         ;00000000000000000000
+VERMEG  ;V00     ;SODCC012;Nombre enregistrements cible ENDRSMNT                       ;00000000000000035397
+VERMEG  ;V00     ;SODCC013;Nombre enregistrements cible ENDRSDAT                       ;00000000000000035397
+VERMEG  ;V00     ;SODCC014;Nombre enregistrements cible HOLDER                         ;00000000000000035397
+VERMEG  ;V00     ;SODCC015;Nombre enregistrements cible PAYER                          ;00000000000000035397
+VERMEG  ;V00     ;SODCC016;Nombre enregistrements cible EXTACCNT                       ;00000000000000032912
+VERMEG  ;V00     ;SODCC017;Nombre enregistrements cible LIFEASSU                       ;00000000000000035397
+VERMEG  ;V00     ;SODCF039;EXTACCNT ignoré ACCOUNT-HOLDER vide                         ;00000000000000002485
+VERMEG  ;V00     ;SODCC018;Nombre enregistrements cible SCHEDFEE                       ;00000000000000340269
+VERMEG  ;V00     ;SODCC019;Nombre enregistrements cible SCHEDFEE                       ;00000000000000150267
+VERMEG  ;V00     ;SODCF023;lien avenant vers (FI)FEE OK                                ;00000000000000035377
+VERMEG  ;V00     ;SODCF025;FEE sans CHEDULE-FEE                                        ;00000000000000190002
+VERMEG  ;V00     ;SODCF086;FEE ignoré status # 'INFORCE'                               ;00000000000000169101
+VERMEG  ;V00     ;SODCF024;Plusieurs (fi)FEE pour avenant                              ;00000000000000473993
+VERMEG  ;V00     ;SODCF095;Clé FP-EP-OID ignorée PC-Light)                             ;00000000000000000000
+VERMEG  ;V00     ;SODCA005;Clé FP-EP-OID absente de FIFEE                              ;00000000000000000020
+VERMEG  ;V00     ;SODCS010;Nb enr lus dans FINANCIAL OPERATION                         ;00000000000003124176
+VERMEG  ;V00     ;SODCR012;Clé XFINOPER-OID absente dans XGLOBOPE                      ;00000000000000000007
+VERMEG  ;V00     ;SODCF075;lien vers pilote Investment Service                         ;00000000000000000045
+VERMEG  ;V00     ;SODCF076;Investment Service de MIGRATION ignoré                      ;00000000000000000017
+VERMEG  ;V00     ;SODCF077;lien vers pilote Coverage Service                           ;00000000000000000653
+VERMEG  ;V00     ;SODCF078;Coverage Service de MIGRATION ignoré                        ;00000000000000000464
+VERMEG  ;V00     ;SODCF079;lien vers Pilote Coverage                                   ;00000000000000007002
+VERMEG  ;V00     ;SODCF080;Coverage de MIGRATION ignoré                                ;00000000000000005475
+VERMEG  ;V00     ;SODCF074;Opération non rattachée                                     ;00000000000003116307
+VERMEG  ;V00     ;SODCC020;Nombre enregistrements cible FINANCOP                       ;00000000000000001906
+VERMEG  ;V00     ;SODCC021;Nombre enregistrements cible FIN-OP-D                       ;00000000000000004311
+VERMEG  ;V00     ;SODCF081;lien vers Elem Opé Dét / CLIENT ORDER                       ;00000000000000001906
+VERMEG  ;V00     ;SODCF084;pas de Elem Opé Dét / CLIENT ORDER en lien                  ;00000000000000000000
+VERMEG  ;V00     ;SODCF082;lien vers Elem Opé Dét / CLIENT INSTRUCTION                 ;00000000000000001672
+VERMEG  ;V00     ;SODCF083;Plusieurs CLIENT-INSTRUCTION                                ;00000000000000002639
+VERMEG  ;V00     ;SODCF085;pas de Elem Opé Dét / CLIENT INSTRUCTION en lien            ;00000000000000000234
+VERMEG  ;V00     ;SODCF041;plusieurs XEPOLICY pour XPOLICY                             ;00000000000004373314
+VERMEG  ;V00     ;SODCF040;filtre ENDORSEMENT-TYPE avenant ignoré                      ;00000000000000355298
+VERMEG  ;V00     ;SODCR005;REJET : Clé FPP-P-OID absente de XEPOLICY                   ;00000000000000000000
+VERMEG  ;V00     ;SODCF042;Clé FP-EP-OID absente de XEPRODUC                           ;00000000000003765915
+VERMEG  ;V00     ;SODCF043;plusieurs XEROL2RT-ROLE-TARGET-OID pour FP-EP-OID           ;00000000000000505974
+VERMEG  ;V00     ;SODCF044;e.STATUS différent de 3 : avenant ignoré                    ;00000000000000277145
+VERMEG  ;V00     ;SODCR006;REJET : FP-EP-OID absent de XEDRDSMT                        ;00000000000000014369
+VERMEG  ;V00     ;SODCI013;pilote des COVERAGE                                         ;00000000000004011808
+VERMEG  ;V00     ;SODCF035;Plusieurs XECOVRG / l'avenant                               ;00000000000000252308
+VERMEG  ;V00     ;SODCI011;Pilote des Coverage-Services                                ;00000000000000856553
+VERMEG  ;V00     ;SODCI012;Pilote des investment-services                              ;00000000000000192082
+VERMEG  ;V00     ;SODCI014;Pilote des ENDORSMENT                                       ;00000000000000035397
+VERMEG  ;V00     ;SODCC041;Ecriture avenant migration                                  ;00000000000000032997
+VERMEG  ;V00     ;SODCC042;Ecriture avenant                                            ;00000000000000002399
+VERMEG  ;V00     ;SODCF061;avenant < date reprise                                      ;00000000000003756539
+VERMEG  ;V00     ;SODCF090;PILOTE ENDORSEMENT avec PC-LIGHT                            ;00000000000000002278
+VERMEG  ;V00     ;SODCF091;PILOTE ENDORSEMENT avec E-P-C                               ;00000000000000033119
+VERMEG    ;V00       ;SODCI015  ;D:\MIGDATA\DEV\FICHIER\INTER\JFPEN900.FPENDORS-COVERAGE.TXT ;004011808
+VERMEG  ;V00     ;SODCI016;Coverage Création avenant migration                         ;00000000000000032997
+VERMEG  ;V00     ;SODCI017;COV avenant < date reprise                                  ;00000000000003756553
+VERMEG  ;V00     ;SODCI021;Cov.Service avenant migration                               ;00000000000000006391
+VERMEG  ;V00     ;SODCI022;Ecriture avenant coverage service                           ;00000000000000000398
+VERMEG  ;V00     ;SODCI023;avenant cov. service < date reprise                         ;00000000000000856071
+VERMEG  ;V00     ;SODCI027;Cov.Service avenant migration(2)                            ;00000000000000000001
+VERMEG  ;V00     ;SODCI024;Inv.Service avenant migration                               ;00000000000000001176
+VERMEG  ;V00     ;SODCI025;ecriture avenant Inv.Service                                ;00000000000000000683
+VERMEG  ;V00     ;SODCI026;avenant Inv.Service < date reprise                          ;00000000000000191369
+VERMEG  ;V00     ;SODCI028;Inv.Service avenant migration(2)                            ;00000000000000000001
+VERMEG  ;V00     ;SODCI029;Pilote COVERAGE                                             ;00000000000000069274
+VERMEG  ;V00     ;SODCI030;Pilote Coverage - Service                                   ;00000000000000006791
+VERMEG  ;V00     ;SODCI031;Pilote Investment - Service                                 ;00000000000000001859
+VERMEG  ;V00     ;SODCI018;EIS création avenant migration                              ;00000000000000032997
+VERMEG  ;V00     ;SODCI019;EIS avenant < date reprise                                  ;00000000000000251624
+VERMEG  ;V00     ;SODCI018;EIS création avenant migration                              ;00000000000000000183
+VERMEG  ;V00     ;SODCI019;EIS avenant < date reprise                                  ;00000000000000000829
+VERMEG  ;V00     ;SODCS007;Nb de contrats lus XPOLICY                                  ;00000000000000032998
+VERMEG  ;V00     ;SODCR004;Clé XPOLICY-OID absente de XPRDCMPI                         ;00000000000000000000
+VERMEG  ;V00     ;SODCS008;Nb d'enregistrements XGENCOV lus                            ;00000000000000107765
+VERMEG  ;V00     ;SODCI040;Nb enregistrements Pilote POLICY avec CLAIM                 ;00000000000000000014
+VERMEG  ;V00     ;SODCC044;Nb enregistrements Pilote POLICY                            ;00000000000000032998
+VERMEG  ;V00     ;SODCF049;Policy sans CLAIM                                           ;00000000000000066737
+VERMEG  ;V00     ;SODCF048;XGENCOV-OWNER-OID absent de FPPOLICY                        ;00000000000000041014
+VERMEG    ;V00       ;SODCF064  ;D:\MIGDATA\DEV\FICHIER\INTER\JINCP100.FPENDORS.SANS-EC-OWNER-OID.TRI;000000000
+VERMEG  ;V00     ;SODCF059;Paramètres pour le même OWNER-OID                           ;00000000000000001768
+VERMEG  ;V00     ;SODCC027;Nombre enregistrements cible INVESTCP                       ;00000000000000032998
+VERMEG  ;V00     ;SODCF027;Paramètre pour la même police                               ;00000000000000034508
+VERMEG  ;V00     ;SODCS009;Nombre de Polices dans fichier XML INITIAL-FINANCIAL-STATE  ;00000000000000053100
+VERMEG  ;V00     ;SODCF070;Polices ignorées (sans support)                             ;00000000000000019954
+VERMEG  ;V00     ;SODCF071;Autres supports pour la Police                              ;00000000000000465691
+VERMEG  ;V00     ;SODCC046;Nb d'enregistrements INITIAL FINANCIAL STATE                ;00000000000000497346
+VERMEG  ;V00     ;SODCR014;Price non alimenté - rejeté                                 ;00000000000000000000
+VERMEG  ;V00     ;SODCF072;INIT-F-S ignoré car absent POLICY                           ;00000000000000001490
+VERMEG  ;V00     ;SODCA009;Price non alimenté                                          ;00000000000000000000
+VERMEG  ;V00     ;SODCC045;Nb d'enregistrements GUARANTED RATE DETAIL                  ;00000000000000497346
+VERMEG  ;V00     ;SODCF073;GUARATED ignoré car absent POLICY                           ;00000000000000001490
+VERMEG  ;V00     ;SODCC022;Nombre enregistrements cible INVEST-C                       ;00000000000000035397
+VERMEG  ;V00     ;SODCC023;Nombre enregistrements cible INVEST-S                       ;00000000000000000029
+VERMEG  ;V00     ;SODCF038;Coverage ignoré / RISK                                      ;00000000000000033877
+VERMEG  ;V00     ;SODCF036;XINVSTRD-ID déjà créé dans INVEST-S                         ;00000000000000033090
+VERMEG  ;V00     ;SODCF037;XINVSTRD-ID non alimenté -> ignoré                          ;00000000000000000000
+VERMEG  ;V00     ;SODCF096;XINVSTRD-ID alimenté par PC-LIGHT                           ;00000000000000002278
+VERMEG  ;V00     ;SODCF066;création INVEST-C identique 1er avenant                     ;00000000000000002278
+VERMEG  ;V00     ;SODCS003;Lectures XBENEIFIT                                          ;00000000000000116679
+VERMEG  ;V00     ;SODCI005;Ecritures FWBFPL ( AVANCES )                                ;00000000000000000598
+VERMEG  ;V00     ;SODCI004;Ecritures FWBFTED ( RACHATS )                               ;00000000000000108925
+VERMEG  ;V00     ;SODCI006;Ecritures FWBFC ( SINISTRES )                               ;00000000000000005999
+VERMEG  ;V00     ;SODCF003;ORIGIN-OID absent de XTENDDEF (RACHATS )                    ;00000000000000007754
+VERMEG  ;V00     ;SODCF060;POLICY-LOAN CLOSED (STATUS-CODEID = 2 )                     ;00000000000000001157
+VERMEG  ;V00     ;SODCF004;ORIGIN-OID absent de XPOLICYL ( AVANCES )                   ;00000000000000114924
+VERMEG  ;V00     ;SODCF005;ORIGIN-OID absent de XCLAIM ( SINISTRES )                   ;00000000000000110680
+VERMEG  ;V00     ;SODCC024;Nombre enregistrements cible POLIC-LN                       ;00000000000000000549
+VERMEG  ;V00     ;SODCI003;écritures WBENFFIL                                          ;00000000000000000549
+VERMEG  ;V00     ;SODCI001;FPP-PC-OID Appareillés WBFPL OK                             ;00000000000000000421
+VERMEG  ;V00     ;SODCI002;FPP-PC-OID multi WBFPL-ENR                                  ;00000000000000000128
+VERMEG  ;V00     ;SODCF002;FPP-PC-OID absent de WBFPL                                  ;00000000000000032577
+VERMEG  ;V00     ;SODCI007;Ecritures WBENFFIL RACHATS                                  ;00000000000000000369
+VERMEG  ;V00     ;SODCF007;FP-EP-OID absent de WBFTED (RACHATS)                        ;00000000000000035028
+VERMEG  ;V00     ;SODCF050;Plusieurs Policy pour CLAIM (SINISTRES)                     ;00000000000000000000
+VERMEG  ;V00     ;SODCF009;CLAIM-ID Absent de FPPOLICY                                 ;00000000000000005999
+VERMEG  ;V00     ;SODCC025;Nombre enregistrements cible BENF-FIL                       ;00000000000000000918
+VERMEG  ;V00     ;SODCC026;Nombre enregistrements cible PARAMTRS                       ;00000000000000032998
+VERMEG  ;V00     ;SODCF063;Paramètre pour la même police                               ;00000000000000036276
+VERMEG  ;V00     ;SODCC028;Nombre enregistrements cible POLIC-CF                       ;00000000000000573929
+VERMEG  ;V00     ;SODCF046;CBLFIELW policy non sélectionnée                            ;00000000000002672091
+VERMEG  ;V00     ;SODCF013;Avenant avec param dans XCFIELD                             ;00000000000000032998
+VERMEG  ;V00     ;SODCF014;Plusieurs param XCFIELD / avenant                           ;00000000000000502082
+VERMEG  ;V00     ;SODCF019;param XCFIELD / même police ignoré                          ;00000000000005076686
+VERMEG  ;V00     ;SODCF062;CBLFIELW autre avenant même police                          ;00000000000000002399
+VERMEG  ;V00     ;SODCF020;Plusieurs param XCFIELD / avenant                           ;00000000000000038849
+VERMEG  ;V00     ;SODCA002;Clé FP-POLICY-NUMBER absente de XCFIELDW                    ;00000000000000000000
+VERMEG  ;V00     ;SODCC029;Nombre enregistrements cible POLICY                         ;00000000000000032998
+VERMEG    ;V00       ;SODCF065  ;D:\MIGDATA\DEV\FICHIER\INTER\JRISK100.FPENDORS.NON-RISK.TRI ;000035397
+VERMEG  ;V00     ;SODCC030;Nombre enregistrements cible RISK-COV                       ;00000000000000033877
+VERMEG  ;V00     ;SODCC031;Nombre enregistrements cible RISK-CVP                       ;00000000000000033877
+VERMEG  ;V00     ;SODCF028;CO-IDENTIFIER à vide -> ignoré                              ;00000000000000000000
+VERMEG  ;V00     ;SODCF092;ENDORS-COV-SERV ignorée <> 'C'                              ;00000000000000000384
+VERMEG  ;V00     ;SODCF093;ENDORS-INV-SERV ignorée <> 'C'                              ;00000000000000000679
+VERMEG  ;V00     ;SODCF089;Service Investment OBS->SPV non ecr                         ;00000000000000000833
+VERMEG  ;V00     ;SODCF097;Service Investment OBS->DPV non ecr                         ;00000000000000000068
+VERMEG  ;V00     ;SODCF098;Service Investment OBS->DPV non ecr                         ;00000000000000000048
+VERMEG  ;V00     ;SODCI037;XENDFO2F trouvé pour l'avenant                              ;00000000000000000945
+VERMEG  ;V00     ;SODCI038;Plusieurs XENDFO2F pour l'avenant                           ;00000000000000001521
+VERMEG  ;V00     ;SODCR010;Clé FICOVRG-OID absente de XENDFO2F                         ;00000000000000000235
+VERMEG  ;V00     ;SODCF068;Pilote avec FICOVRG-XFINSTGT-OID                            ;00000000000000000949
+VERMEG  ;V00     ;SODCF069;XENDFO2F trouvé sur clé XFINSTGT-OID                        ;00000000000000000946
+VERMEG  ;V00     ;SODCI039;Plusieurs XFINSTGT-OID pour avenant                         ;00000000000000000001
+VERMEG  ;V00     ;SODCR011;Clé XFINSTGT-OID absente de XENDFO2F                        ;00000000000000000003
+VERMEG  ;V00     ;SODCF068;Pilote avec FICOVRG-XFINSTGT-OID                            ;00000000000000000046
+VERMEG  ;V00     ;SODCF069;XENDFO2F trouvé sur clé XFINSTGT-OID                        ;00000000000000000027
+VERMEG  ;V00     ;SODCI039;Plusieurs XFINSTGT-OID pour avenant                         ;00000000000000000000
+VERMEG  ;V00     ;SODCR011;Clé XFINSTGT-OID absente de XENDFO2F                        ;00000000000000000019
+VERMEG  ;V00     ;SODCC043;Nombre enregistrements cible SERVICE                        ;00000000000000006407
+VERMEG  ;V00     ;SODCC039;Nombre enregistrements cible SVCPAYMD                       ;00000000000000005060
+VERMEG  ;V00     ;SODCC040;Nombre enregistrements cible SVCINSTR                       ;00000000000000012266
+VERMEG  ;V00     ;SODCF053;Nb de Service versements programmés                         ;00000000000000005060
+VERMEG  ;V00     ;SODCF055;Services autres que VP                                      ;00000000000000001347
+VERMEG  ;V00     ;SODCF056;Services VP ou RPP                                          ;00000000000000006407
+VERMEG  ;V00     ;SODCF099;AMOUNT et SPLIT nulles, SVCINSTR ig                         ;00000000000000000169
+VERMEG  ;V00     ;SODCF054;Plusieurs XEFINDIS pour le service                          ;00000000000000006071
+VERMEG  ;V00     ;SODCF057;Services autres que VP et RPP                               ;00000000000000000000
+VERMEG  ;V00     ;SODCA007;Clé FICOVRG-ECS-OID absente de XEFINDIS                     ;00000000000000000043
+VERMEG    ;V00       ;SODCC037  ;D:\MIGDATA\DEV\FICHIER\CIBLE\SERVICE.TXT                    ;000007587
+VERMEG    ;V00       ;SODCC038  ;D:\MIGDATA\DEV\FICHIER\CIBLE\SWITCHSI.TXT                   ;000003412
+VERMEG  ;V00     ;SODCC033;Nombre enregistrements cible TAX-DTLS                       ;00000000000000035397
+VERMEG  ;V00     ;SODCC034;Nombre enregistrements cible TAXCALCR                       ;00000000000000035397
+VERMEG  ;V00     ;SODCC035;Nombre enregistrements cible QUESTION                       ;00000000000000000040
+VERMEG  ;V00     ;SODCC036;Nombre enregistrements cible COMPTMNT                       ;00000000000000065742
+VERMEG  ;V00     ;SODCF011;Plusieurs XQUESTN pour l'avenant                            ;00000000000000000000
+VERMEG  ;V00     ;SODCF012;Plusieurs XECOMPRT pour l'avenant                           ;00000000000000061029
+VERMEG  ;V00     ;SODCF008;appareillage XQUESTN KO                                     ;00000000000000035357
+VERMEG  ;V00     ;SODCF010;appareillage XECOMPRT KO                                    ;00000000000000030684
+VERMEG  ;V00     ;SODCS004;NB RECORDS LUS dans XENDO_TAX_RULE_RESULT                   ;00000000000002913126
+VERMEG  ;V00     ;SODCC032;Nombre enregistrements cible TAX-R-R                        ;00000000000000004934
+VERMEG  ;V00     ;SODCF006;XETXRULR ignoré                                             ;00000000000002908192

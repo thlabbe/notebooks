@@ -1,0 +1,46 @@
+ACCNTACT.TXT                    9        
+BANK.TXT                      830        
+BENEF.TXT                   1 795        
+BENF-FIL.TXT                  918        
+BILL.TXT                       14        
+BILLCOMP.TXT                    0        
+CHARGACT.TXT                   29        
+CLAIM.TXT                      13        
+CLAUSE.TXT                 36 463        
+CLCOVDET.TXT                   14        
+COMPTMNT.TXT               65 742        
+CUST-PAR.TXT            5 156 600        
+DIST-KEY.TXT               94 040        
+ENDRSDAT.TXT               35 397        
+ENDRSMNT.TXT               35 397        
+EXTACCNT.TXT               32 912        
+FEE.TXT                   340 269        
+FEESTORE.TXT                   68        
+FIN-OP-D.TXT                4 311        
+FINANCOP.TXT                1 906        
+FPPOLICY.TXT               32 998        
+GUARATED.TXT              497 346        
+HOLDER.TXT                 35 397        
+INIT-F-S.TXT              497 346        
+INVEST-C.TXT               35 397        
+INVEST-S.TXT                   29        
+INVESTCP.TXT               32 998        
+LIFEASSU.TXT               35 397        
+PARAMTRS.TXT               32 998        
+PAYER.TXT                  35 397        
+PAYMTACT.TXT                   30        
+POLIC-CF.TXT              573 929        
+POLIC-LN.TXT                  549        
+POLICY.TXT                 32 998        
+QUESTION.TXT                   40        
+RISK-COV.TXT               33 877        
+RISK-CVP.TXT               33 877        
+SCHEDFEE.TXT              150 267        
+SERVICE.TXT                 7 587        
+SVCINSTR.TXT               12 266        
+SVCPAYMD.TXT                5 060        
+SWITCHSI.TXT                3 412        
+TAX-DTLS.TXT               35 397        
+TAX-R-R.TXT                 4 934        
+TAXCALCR.TXT               35 397        
+TRNSFDET.TXT                3 542        
